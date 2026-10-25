@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "Kadima-code/dsh-session-mirror",
+  "name": "dsh-session-mirror",
+  "repository": "https://github.com/Kadima-code/dsh-session-mirror",
+  "category": "session",
+  "description": {
+    "en": "Per-conversation backup plugin for DSH: incremental mirroring of session logs, fuzzy restore with preview-then-confirm, and rule-based cleanup that moves expired backups to a 7-day recycle bin.",
+    "zh": "按会话逐个备份 DSH 对话日志：增量镜像、模糊匹配恢复（先预览再确认）、按规则清理（到期先入回收站留 7 天）。"
+  },
+  "added": "2026-10-25"
+}
